@@ -1,0 +1,59 @@
+*{
+    color:black;
+    background-color:beige;
+    margin: 0;
+    
+    
+   
+}
+
+
+h1{
+    color: rgb(255, 81, 0);
+    text-align: center;
+    margin: 50px;
+}
+
+
+#texto_principal_capoeira{
+    padding: 10px;
+
+}
+
+
+#imagem_capoeira{
+    width: 350px;
+    display: block;
+    margin: 0px auto;
+}
+
+#menu_horizontal{
+    color:white;
+    list-style: none;
+    background-color: black;
+    display: flex;
+    padding: 0;
+   
+    
+}
+#menu_horizontal li{
+    display: inline;
+   
+}
+#menu_horizontal li a{
+    background-color:black;
+    text-decoration: none;
+    color:white;
+    padding: 15px;
+    display: inline-block; 
+    font-weight: 100;
+}
+#menu_horizontal li a:hover{
+    background-color:rgb(255, 81, 0);
+    text-align: center;
+
+}
+
+
+
+
